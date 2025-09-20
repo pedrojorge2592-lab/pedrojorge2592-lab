@@ -5,8 +5,11 @@
 
 Currently, I am completing the **Data Science program at Porto Business School**, where I had the opportunity to work with **Salvador Caetano** on real cases of **Machine Learning** and **Data Analysis**.  
 
-💡 My dream is to grow in this field, sharing projects that showcase my skills, tools, and problem-solving mindset.  
-During the course, I worked with the most widely used tools in the industry, and I’m excited to keep learning and sharing here on GitHub.  
+🎓 Passionate about Data Science, AI, and Business Intelligence.
+
+🛠️ Experienced in Python, Power BI, Machine Learning, and AI Chatbots.
+
+📈 Always learning and sharing projects to inspire others.
 
 ---
 
